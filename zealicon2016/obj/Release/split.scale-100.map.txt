@@ -1,0 +1,10 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\obj\Release\split.scale-100.pri"			"resources.pri"
+"C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\obj\Release\PackageLayout\Assets\z'16_50.scale-100.png"			"Assets\z'16_50.scale-100.png"
+"C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\obj\Release\PackageLayout\Assets\WideLogo.scale-100.jpg"			"Assets\WideLogo.scale-100.jpg"
+"C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\obj\Release\PackageLayout\Assets\Square71x71Logo.scale-100.png"			"Assets\Square71x71Logo.scale-100.png"
+"C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\obj\Release\PackageLayout\Assets\BadgeLogo.scale-100.jpg"			"Assets\BadgeLogo.scale-100.jpg"

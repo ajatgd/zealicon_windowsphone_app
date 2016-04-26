@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\zealicon2016_1.1.0.31_Bundle\zealicon2016_1.1.0.31_AnyCPU.appx
+SymbolPackage=C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\AppPackages\zealicon2016_1.1.0.31_Test\zealicon2016_1.1.0.31_AnyCPU.appxsym

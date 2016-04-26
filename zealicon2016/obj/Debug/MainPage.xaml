@@ -1,0 +1,46 @@
+﻿<Page
+    x:Class="zealicon2016.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:zealicon2016"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <ScrollViewer>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/ab.jpg"/>
+        </Grid.Background>
+
+
+            <TextBlock  HorizontalAlignment="Left" Margin="10,301,0,-405" TextWrapping="Wrap" VerticalAlignment="Top" Height="744" Width="380" FontSize="20" FontWeight="Bold">
+            	<Run Text="Zealicon is the annual techno-cultural festival of JSSATE, Noida. Dedicated to the celebration of creativity and science, it is a stimulating event brimming with youthful dynamism. It transforms the campus into a veritable kaleidoscope of people. Involving multifarious exciting events from technical scratch to cultural zeal. "/>
+            	<LineBreak/>
+            	<Run Text="A platform for all the creative minds to express their ideas in the form of events including band performances, discussions, film screenings that are spread over three days. Apart from the exuberant cultural events, Zealicon is also known for its mind boggling technical events that creates an ambience for the technocrats."/>
+          <LineBreak/>
+                <!--<Run Text="Zealicon 2016 will cover the aspects of hysterical face of literature along with popular arts, science and technology. This edition of Zealicon promises all the trademarks of the earlier versions. A plethora of events where academicians will vouch out their intellect and artists will showcase the best of art. Projecting the fictitious gesture onto the real world, Zealicon will act as a connecting link between the fantasy and reality."></Run> -->
+            </TextBlock>
+
+
+            <Image HorizontalAlignment="Left" Height="296" Margin="10,0,0,0" VerticalAlignment="Top" Width="390" Source="Assets/new.png" Stretch="Fill"/>
+
+
+
+        </Grid>
+    </ScrollViewer>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:ConnectionId='1' x:Uid="AddAppBarButton" x:Name="AddAppBarButton" Label="categories" Icon="AllApps"                               />
+            <AppBarButton x:ConnectionId='2' x:Uid="loc" x:Name="location" Label="Location" Icon="Target"                       />
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:ConnectionId='3' x:Uid="SecondaryButton3" x:Name="SecondaryButton3" Label="sponsors"                                />
+                <AppBarButton x:ConnectionId='4' x:Uid="SecondaryButton2" x:Name="SecondaryButton2" Label="contact us"                                />
+                <AppBarButton x:ConnectionId='5' x:Uid="SecondaryButton1" x:Name="SecondaryButton1" Label="about app"                                />
+                
+
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

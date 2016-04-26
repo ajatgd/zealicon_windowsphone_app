@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NAWAB</Machine>
+    <WindowsUser>Ashish</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e1cc134d-ffc3-4e3a-8708-4a474d5fcb05</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\zealicon2016.exe">
+      <PackagePath>zealicon2016.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\packages\Newtonsoft.Json.8.0.3\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\A.jpg">
+      <PackagePath>Assets\A.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\ab.jpg">
+      <PackagePath>Assets\ab.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\about.jpg">
+      <PackagePath>Assets\about.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\bb.jpg">
+      <PackagePath>Assets\bb.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\blackwidow.jpg">
+      <PackagePath>Assets\blackwidow.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\ca.jpg">
+      <PackagePath>Assets\ca.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\captainamerica.jpg">
+      <PackagePath>Assets\captainamerica.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\contact.jpg">
+      <PackagePath>Assets\contact.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\extravaganza.jpg">
+      <PackagePath>Assets\extravaganza.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\hh.jpg">
+      <PackagePath>Assets\hh.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\hulk.jpg">
+      <PackagePath>Assets\hulk.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\ir.jpg">
+      <PackagePath>Assets\ir.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\ironman.jpg">
+      <PackagePath>Assets\ironman.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\map.jpg">
+      <PackagePath>Assets\map.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\sp.jpg">
+      <PackagePath>Assets\sp.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\spiderman.jpg">
+      <PackagePath>Assets\spiderman.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\th.jpg">
+      <PackagePath>Assets\th.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\thor.jpg">
+      <PackagePath>Assets\thor.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\brainbuxa.png">
+      <PackagePath>Assets\brainbuxa.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\jugnoo.png">
+      <PackagePath>Assets\jugnoo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\new.png">
+      <PackagePath>Assets\new.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\nightbuild.PNG">
+      <PackagePath>Assets\nightbuild.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\about.xbf">
+      <PackagePath>about.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\cat1.xbf">
+      <PackagePath>cat1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\cat2.xbf">
+      <PackagePath>cat2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\cat3.xbf">
+      <PackagePath>cat3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\cat4.xbf">
+      <PackagePath>cat4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\cat5.xbf">
+      <PackagePath>cat5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\cat6.xbf">
+      <PackagePath>cat6.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\category.xbf">
+      <PackagePath>category.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\contact us.xbf">
+      <PackagePath>contact us.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\location.xbf">
+      <PackagePath>location.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\SplashPage.xbf">
+      <PackagePath>SplashPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\sponsors.xbf">
+      <PackagePath>sponsors.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\zealicon2016.xr.xml">
+      <PackagePath>zealicon2016.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\documents\visual studio 2013\Projects\zealicon2016\zealicon2016\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

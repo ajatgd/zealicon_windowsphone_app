@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="zealicon2016.sponsors"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:zealicon2016"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="Black">
+    	<TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="SPONSORS" VerticalAlignment="Top" Height="68" Width="380" FontSize="33.333" FontWeight="Bold"  Foreground="#FF913F3F"/>
+    	<Image HorizontalAlignment="Left" Height="151" Margin="10,147,0,0" VerticalAlignment="Top" Width="211" Source="Assets/jugnoo.png" Stretch="Fill"/>
+    	<Image HorizontalAlignment="Left" Height="108" Margin="10,342,0,0" VerticalAlignment="Top" Width="211" Source="Assets/brainbuxa.png" Stretch="Fill"/>
+    	<Image HorizontalAlignment="Left" Height="123" Margin="10,507,0,0" VerticalAlignment="Top" Width="380" Source="Assets/nightbuild.PNG" Stretch="Fill"/>
+
+    </Grid>
+</Page>
+
